@@ -1,2 +1,22 @@
-Pillow>=9.0.0,<10.0.0
-python-magic>=0.4.0,<0.5.0
+# This file is used to install the required packages for the project.
+# It is recommended to use a virtual environment to avoid conflicts with other projects.
+# You can create a virtual environment using the following command:
+# python -m venv venv
+# Then activate it using the following command:
+# Windows: venv\Scripts\activate
+# Linux/Mac: source venv/bin/activate
+# After activating the virtual environment, you can install the required packages using the following command:
+# pip install -r requirements.txt
+# For more information on virtual environments, check the official documentation:
+# https://docs.python.org/3/tutorial/venv.html
+# For more information on pip, check the official documentation:
+# https://pip.pypa.io/en/stable/user_guide/
+# For more information on requirements files, check the official documentation:
+# https://pip.pypa.io/en/stable/user_guide/#requirements-files
+# For more information on the packages used in this project, check the official documentation:
+# https://pypi.org/
+# For more information on the project, check the official documentation:
+#
+
+Pillow>=10.2.0
+python-magic>=0.4.27
